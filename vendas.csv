@@ -1,0 +1,11 @@
+Data,Produto,Categoria,Regiao,Vendas,Lucro
+2026-01-01,Notebook,Informática,Sudeste,4500,1200
+2026-01-02,Mouse,Informática,Sul,200,80
+2026-01-03,Teclado,Informática,Sudeste,350,120
+2026-01-04,Monitor,Informática,Nordeste,1200,300
+2026-01-05,Cadeira,Móveis,Sul,900,250
+2026-01-06,Mesa,Móveis,Sudeste,1500,400
+2026-01-07,Notebook,Informática,Sul,5000,1400
+2026-01-08,Mouse,Informática,Nordeste,180,70
+2026-01-09,Monitor,Informática,Sudeste,1300,350
+2026-01-10,Cadeira,Móveis,Nordeste,850,200
